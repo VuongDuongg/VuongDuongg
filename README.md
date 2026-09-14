@@ -33,11 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=VuongDuongg&theme=tokyonight&show_icons=true" width="100%" />
-</p>
-
 ### 📫 Connect with Me
 
 - ✉️ **Email**: funnyvuong@gmail.com
