@@ -36,8 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VuongDuongg&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VuongDuongg&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VuongDuongg&theme=tokyonight" width="100%" />
 </p>
 ---
 
