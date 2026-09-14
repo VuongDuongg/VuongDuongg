@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VuongDuongg&show_icons=true&theme=tokyonight" alt="Duong's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuongDuongg&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=VuongDuongg&show_icons=true&theme=tokyonight" alt="Duong's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=VuongDuongg&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 ---
