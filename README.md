@@ -38,10 +38,6 @@
   <img src="https://github-stats-extended.vercel.app/api?username=VuongDuongg&theme=tokyonight&show_icons=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VuongDuongg&theme=tokyonight&margin-w=15" width="100%" />
-</p>
-
 ### 📫 Connect with Me
 
 - ✉️ **Email**: funnyvuong@gmail.com
