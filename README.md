@@ -34,13 +34,12 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=VuongDuongg%20GitHub%20Stats&fontSize=30&fontColor=ffffff" width="100%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=VuongDuongg&theme=tokyonight&show_icons=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=VuongDuongg&theme=tokyonight&show_icons=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VuongDuongg&theme=tokyonight&margin-w=15" width="100%" />
 </p>
 
 ### 📫 Connect with Me
