@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VuongDuongg&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VuongDuongg&theme=tokyonight" width="100%" />
 </p>
 
 ### 📫 Connect with Me
