@@ -35,9 +35,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VuongDuongg&theme=tokyonight" width="100%" />
-</p>
+### 📊 GitHub Stats
+
+[![Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VuongDuongg&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VuongDuongg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 📫 Connect with Me
