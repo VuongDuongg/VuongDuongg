@@ -9,7 +9,7 @@
 - 🔭 **Currently working on**: Full-stack web projects & mobile applications.
 - 🌱 **Learning**: Flutter, Dart, Advanced System Architecture & Docker CI/CD pipelines.
 - 🎨 **Interests**: UI/UX design (Figma), Clean Code, & Object-Oriented Design Patterns.
-- 🎯 **Goal**: Building scalable, robust web and mobile applications with optimal user experience.
+- 🎯 **Goal**: Building scalable, robust web and mobile applications.
 
 ---
 
