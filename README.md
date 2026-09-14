@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VuongDuongg&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=VuongDuongg%20GitHub%20Stats&fontSize=30&fontColor=ffffff" width="100%" />
 </p>
 
 ### 📫 Connect with Me
