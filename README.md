@@ -7,9 +7,7 @@
     <a href="mailto:funnyvuong@gmail.com">
       <img src="https://img.shields.io/badge/Email-funnyvuong%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+    
   </p>
 </div>
 
