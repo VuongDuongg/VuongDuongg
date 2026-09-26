@@ -1,6 +1,3 @@
-Dưới đây là toàn bộ mã nguồn Markdown của **Mẫu 1** để bạn copy nhanh vào file `README.md` của repo profile (`VuongDuongg/VuongDuongg`):
-
-```markdown
 <div align="center">
   <!-- Banner sóng gradient động -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=210&section=header&text=Duong%20Quoc%20Vuong&fontSize=50&fontAlignY=36&animation=twinkling&desc=Software%20Developer%20|%20Mobile%20&%20Full-Stack%20Enthusiast&descSize=18&descAlignY=58" width="100%" />
