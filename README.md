@@ -1,3 +1,5 @@
+
+```markdown
 <div align="center">
   <!-- Banner sóng gradient động -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=210&section=header&text=Duong%20Quoc%20Vuong&fontSize=50&fontAlignY=36&animation=twinkling&desc=Software%20Developer%20|%20Mobile%20&%20Full-Stack%20Enthusiast&descSize=18&descAlignY=58" width="100%" />
@@ -14,6 +16,9 @@
     </a>
     <a href="https://github.com/VuongDuongg">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 </div>
@@ -32,6 +37,7 @@ current_focus:
   - System Design, Clean Code & Automated CI/CD
 hobbies: [Clean Architecture, UI/UX Interaction, Technology Exploration]
 status: Open for Internship / Junior Software Engineer opportunities 🚀
+```
 
 ---
 
@@ -102,6 +108,11 @@ status: Open for Internship / Junior Software Engineer opportunities 🚀
 ---
 
 ### 📊 Hoạt động GitHub (GitHub Statistics)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VuongDuongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuongDuongg&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="150" alt="Top Languages" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VuongDuongg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
