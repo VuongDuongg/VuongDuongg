@@ -108,10 +108,6 @@ status: Open for Internship / Junior Software Engineer opportunities 🚀
 
 ### 📊 Hoạt động GitHub (GitHub Statistics)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VuongDuongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuongDuongg&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="150" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VuongDuongg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
