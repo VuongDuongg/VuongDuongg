@@ -1,11 +1,10 @@
-
 <div align="center">
   <!-- Banner sóng gradient động -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=210&section=header&text=Duong%20Quoc%20Vuong&fontSize=50&fontAlignY=36&animation=twinkling&desc=Software%20Developer%20|%20Mobile%20&%20Full-Stack%20Enthusiast&descSize=18&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=210&section=header&text=Duong%20Quoc%20Vuong&fontSize=50&fontAlignY=36&animation=twinkling&fontColor=ffffff" alt="Profile Banner" />
 
   <!-- Chữ chạy Typing SVG tự động đổi dòng -->
   <a href="https://github.com/VuongDuongg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E90FA&center=true&vCenter=true&width=650&lines=IT+Student+%40+Thuyloi+University;Full-Stack+Web+%26+Mobile+App+Developer;Passionate+about+Flutter%2C+React+%26+Clean+Architecture;Always+learning+and+building+creative+solutions!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E90FA&center=true&vCenter=true&width=650&lines=IT+Student+%40+Thuyloi+University;Fullstack+Developer+in+Progress;Open+to+Internship+Opportunities" alt="Typing SVG" />
   </a>
 
   <!-- Social Badges -->
@@ -62,9 +61,9 @@ status: Open for Internship / Junior Software Engineer opportunities 🚀
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/VuongDuongg/Tuong_Tac_Nguoi_May_Final">🏥 Hospital-ÔII (HCI & UI/UX)</a></h3>
+      <h3 align="center"><a href="https://github.com/VuongDuongg/Tuong_Tac_Nguoi_May_Final">🏥 Hospital-ÔII</a></h3>
       <p align="center">
-        Hệ thống y tế số hóa tích hợp đa phân hệ (Bệnh nhân, Tiếp tân, Bác sĩ EMR, Thu ngân, Admin). Chuẩn hóa trải nghiệm người dùng tương tác người - máy.
+        Hệ thống bệnh viện số hóa tích hợp nhiều phân hệ như bệnh nhân, tiếp tân, bác sĩ, thu ngân và quản trị. Tập trung vào trải nghiệm người dùng, quy trình làm việc hiệu quả và thiết kế giao diện thân thiện.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -75,7 +74,7 @@ status: Open for Internship / Junior Software Engineer opportunities 🚀
     <td width="50%">
       <h3 align="center"><a href="https://github.com/VuongDuongg/React_Chat">💬 Realtime Chat App</a></h3>
       <p align="center">
-        Ứng dụng nhắn tin thời gian thực đa phòng chat, hỗ trợ phản hồi tin nhắn tức thì với hiệu năng cao và giao diện tối ưu.
+        Ứng dụng nhắn tin thời gian thực với nhiều phòng chat, gửi nhận tin tức thì, tương tác mượt mà và giao diện tối ưu cho trải nghiệm người dùng.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -87,7 +86,7 @@ status: Open for Internship / Junior Software Engineer opportunities 🚀
     <td width="50%">
       <h3 align="center"><a href="https://github.com/VuongDuongg/Task_Management">📋 Task Management System</a></h3>
       <p align="center">
-        Công cụ quản trị công việc cá nhân và tiến độ nhóm trực quan theo phương pháp Kanban/Scrum, dễ dàng theo dõi deadline.
+        Hệ thống quản lý công việc cá nhân và nhóm theo mô hình Kanban/Scrum, giúp theo dõi tiến độ, nguyên tắc làm việc và thời hạn hiệu quả.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -97,7 +96,7 @@ status: Open for Internship / Junior Software Engineer opportunities 🚀
     <td width="50%">
       <h3 align="center"><a href="https://github.com/VuongDuongg/React_Movie_Tutorial">🎬 Movie Streaming & Discovery</a></h3>
       <p align="center">
-        Trang web tìm kiếm và khám phá điện ảnh với khả năng kết nối RESTful API, tối ưu trải nghiệm tra cứu và phát trailer.
+        Trang web tìm kiếm và khám phá phim với dữ liệu động từ RESTful API, hỗ trợ tra cứu nhanh, xem trailer và tối ưu trải nghiệm người dùng.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -110,7 +109,6 @@ status: Open for Internship / Junior Software Engineer opportunities 🚀
 ---
 
 ### 📊 Hoạt động GitHub (GitHub Statistics)
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VuongDuongg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -125,4 +123,3 @@ status: Open for Internship / Junior Software Engineer opportunities 🚀
   <br />
   <sub>⚡ Designed with ❤️ by <b>VuongDuongg</b></sub>
 </div>
-```
