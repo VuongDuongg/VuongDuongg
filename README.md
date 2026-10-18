@@ -1,125 +1,114 @@
 <div align="center">
-  <!-- Banner sóng gradient động -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=210&section=header&text=Duong%20Quoc%20Vuong&fontSize=50&fontAlignY=36&animation=twinkling&fontColor=ffffff" alt="Profile Banner" />
 
-  <!-- Chữ chạy Typing SVG tự động đổi dòng -->
-  <a href="https://github.com/VuongDuongg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E90FA&center=true&vCenter=true&width=650&lines=IT+Student+%40+Thuyloi+University;Fullstack+Developer+in+Progress;Open+to+Internship+Opportunities" alt="Typing SVG" />
-  </a>
+<!-- HEADER BANNER & TYPING EFFECT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=220&section=header&text=Hi%20there,%20I'm%20Vuong%20Duong%20👋&fontSize=42&fontAlignY=36&animation=twinkling&desc=Fullstack%20Software%20Engineer%20|%20Java%20Spring%20Boot%20&%20React%20TypeScript&descAlignY=58&descSize=20" width="100%" />
 
-  <!-- Social Badges -->
-  <p align="center">
-    <a href="mailto:funnyvuong@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/VuongDuongg">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.facebook.com/DuongQuocVuongg">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://www.instagram.com/vuo.wg">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Crafting+Robust+Enterprise+Backend+Systems;Building+Modern+%26+Responsive+React+UIs;Dockerizing+and+Streamlining+Deployments;Lifelong+Learner+%26+Clean+Architecture+Enthusiast" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 👨‍💻 Giới thiệu (About Me)
-
-```yaml
-name: Dương Quốc Vương
-role: Software Engineering Student & Developer
-university: Trường Đại học Thủy Lợi (TLU)
-current_focus:
-  - Mobile Development with Flutter & Dart
-  - Modern Web Development with React, Node.js & Laravel
-  - System Design, Clean Code & Automated CI/CD
-hobbies: [Clean Architecture, UI/UX Interaction, Technology Exploration]
-status: Open for Internship / Junior Software Engineer opportunities 🚀
-```
-
----
-
-### 🛠️ Kỹ năng công nghệ (Tech Stack)
-
-<div align="center">
-
-| Lĩnh vực | Công nghệ / Ngôn ngữ |
-| :--- | :--- |
-| **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,tailwind,bootstrap" /> |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,java,php,mysql" /> |
-| **DevOps & Design Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" /> |
+[![GitHub followers](https://img.shields.io/github/followers/VuongDuongg?label=Followers&style=for-the-badge&logo=github&color=24292e)](https://github.com/VuongDuongg)
+[![Profile Views](https://komarev.com/ghpvc/?username=VuongDuongg&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/VuongDuongg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:funnyvuong@gmail.com)
 
 </div>
 
 ---
 
-### 📌 Dự án tiêu biểu (Featured Projects)
+### 👨‍💻 About Me
 
-<table>
+- 🔭 **Focus**: Phát triển các hệ thống Web Fullstack chất lượng cao, tối ưu hiệu năng và kiến trúc phân tầng sạch (**Clean Architecture**).
+- 🌱 **Chuyên môn cốt lõi**: **Java Spring Boot** (Security, JWT, JPA/Hibernate) kết hợp **React 19 + TypeScript** và **Docker DevOps**.
+- 💡 **Mục tiêu**: Xây dựng các ứng dụng có khả năng mở rộng tốt (Scalable), bảo mật vững chắc và trải nghiệm người dùng (UX) mượt mà.
+- ⚡ **Sở thích**: Tìm tòi công nghệ mới, tối ưu hóa database queries và thiết kế UI/UX hiện đại.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/VuongDuongg/Tuong_Tac_Nguoi_May_Final">🏥 Hospital-ÔII</a></h3>
-      <p align="center">
-        Hệ thống bệnh viện số hóa tích hợp nhiều phân hệ như bệnh nhân, tiếp tân, bác sĩ, thu ngân và quản trị. Tập trung vào trải nghiệm người dùng, quy trình làm việc hiệu quả và thiết kế giao diện thân thiện.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/VuongDuongg/React_Chat">💬 Realtime Chat App</a></h3>
-      <p align="center">
-        Ứng dụng nhắn tin thời gian thực với nhiều phòng chat, gửi nhận tin tức thì, tương tác mượt mà và giao diện tối ưu cho trải nghiệm người dùng.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Realtime-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      </p>
+    <td align="center" width="20%"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Security-JWT-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Data%20JPA-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+      <img src="https://img.shields.io/badge/RESTful%20APIs-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/VuongDuongg/Task_Management">📋 Task Management System</a></h3>
-      <p align="center">
-        Hệ thống quản lý công việc cá nhân và nhóm theo mô hình Kanban/Scrum, giúp theo dõi tiến độ, nguyên tắc làm việc và thời hạn hiệu quả.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-Fast%20Bundler-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Axios-HTTP%20Client-5A29E4?style=flat-square&logo=axios&logoColor=white" />
     </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/VuongDuongg/React_Movie_Tutorial">🎬 Movie Streaming & Discovery</a></h3>
-      <p align="center">
-        Trang web tìm kiếm và khám phá phim với dữ liệu động từ RESTful API, hỗ trợ tra cứu nhanh, xem trailer và tối ưu trải nghiệm người dùng.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
-      </p>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker%20Compose-Orchestration-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=flat-square&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Hoạt động GitHub (GitHub Statistics)
+### 🚀 Featured Project
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VuongDuongg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <h3>🌟 <a href="https://github.com/VuongDuongg/TechBlog">TechBlog - Nền Tảng Học Lập Trình & Blog Công Nghệ Fullstack</a></h3>
+  <p><em>Hệ thống E-Learning & Tech Blog hoàn chỉnh được xây dựng theo chuẩn kiến trúc doanh nghiệp với 3-Tier Architecture.</em></p>
+</div>
+
+- **Tính năng nổi bật**:
+  - 🔐 Xác thực & phân quyền RBAC (Role-Based Access Control) với **Spring Security & JWT**.
+  - 🎓 Hệ thống quản lý khóa học LMS: Tìm kiếm / Lọc đa tiêu chí phía máy chủ (Debounce & Criteria API), theo dõi tiến độ học tập và ghi danh.
+  - 📝 Không gian Blog kỹ thuật trình bày định dạng Markdown, highlight mã nguồn phong cách macOS, nhúng video YouTube.
+  - 🐳 Đóng gói **Docker Compose 3 tầng** (PostgreSQL, Backend Spring Boot, Frontend Nginx Reverse Proxy) khởi động chỉ với 1 click.
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VuongDuongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="VuongDuongg's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuongDuongg&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VuongDuongg&theme=tokyonight&hide_border=true" width="94%" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=VuongDuongg&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <br />
-  <sub>⚡ Designed with ❤️ by <b>VuongDuongg</b></sub>
+
+### 🤝 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VuongDuongg)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com](https://www.facebook.com/DuongQuocVuongg))
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-funnyvuong@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%" />
+
 </div>
