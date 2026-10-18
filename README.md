@@ -72,17 +72,91 @@
 
 ### 🚀 Featured Project
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="40%">Dự án</th>
+      <th width="40%">Mô tả & Tính năng chính</th>
+      <th width="20%">Công nghệ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/VuongDuongg/TechBlog">🌟 TechBlog</a></strong><br/>
+        <em>Nền tảng Học lập trình & Tech Blog Fullstack</em>
+      </td>
+      <td>
+        • Hệ thống E-Learning & Blog kỹ thuật chuẩn kiến trúc 3 tầng doanh nghiệp.<br/>
+        • Quản lý khóa học, bài học rich-content (Markdown, Code Prism macOS, YouTube player).<br/>
+        • Tìm kiếm, lọc đa tiêu chí phía server (Criteria API + Debounce).<br/>
+        • Bảo mật Spring Security JWT & đóng gói Docker Compose 1-click.
+      </td>
+      <td>
+        <code>Java 17</code><br/>
+        <code>Spring Boot</code><br/>
+        <code>React 19 TS</code><br/>
+        <code>PostgreSQL</code><br/>
+        <code>Docker</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/VuongDuongg/Agent_Skill_FullStack_Java">🤖 Agent Skill FullStack Java</a></strong><br/>
+        <em>Bộ quy chuẩn & AI Agent Skills Fullstack</em>
+      </td>
+      <td>
+        • Tập hợp quy chuẩn thiết kế Clean Architecture, JPA Specification, DTO mapping.<br/>
+        • Quy trình 5 bước phát triển tính năng Fullstack (Backend -> Frontend -> DevOps).<br/>
+        • Tối ưu cấu hình Multi-stage Dockerfile và Nginx Reverse Proxy.
+      </td>
+      <td>
+        <code>Clean Architecture</code><br/>
+        <code>Spring JPA</code><br/>
+        <code>DevOps Workflow</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/VuongDuongg/Study-material-management">📚 Study Material Management</a></strong><br/>
+        <em>Hệ thống Quản lý Tài liệu Học tập</em>
+      </td>
+      <td>
+        • Ứng dụng hỗ trợ lưu trữ, phân loại và tìm kiếm giáo trình, tài liệu học tập theo môn học.<br/>
+        • Giao diện trực quan, tối ưu trải nghiệm tra cứu và quản lý danh mục tài liệu.
+      </td>
+      <td>
+        <code>JavaScript</code><br/>
+        <code>HTML/CSS</code><br/>
+        <code>Web App</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/VuongDuongg/Reinforcement-Learning">🧠 Reinforcement Learning</a></strong><br/>
+        <em>Mô phỏng & Ứng dụng Học Tăng Cường</em>
+      </td>
+      <td>
+        • Dự án nghiên cứu các thuật toán Reinforcement Learning và ứng dụng trong môi trường mô phỏng không gian đa tác tử.
+      </td>
+      <td>
+        <code>AI / ML</code><br/>
+        <code>Simulation</code><br/>
+        <code>NetLogo</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br/>
 <div align="center">
-  <h3>🌟 <a href="https://github.com/VuongDuongg/TechBlog">TechBlog - Nền Tảng Học Lập Trình & Blog Công Nghệ Fullstack</a></h3>
-  <p><em>Hệ thống E-Learning & Tech Blog hoàn chỉnh được xây dựng theo chuẩn kiến trúc doanh nghiệp với 3-Tier Architecture.</em></p>
+  <!-- Pinned Repo Cards -->
+  <a href="https://github.com/VuongDuongg/TechBlog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VuongDuongg&repo=TechBlog&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/VuongDuongg/Agent_Skill_FullStack_Java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VuongDuongg&repo=Agent_Skill_FullStack_Java&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
-
-- **Tính năng nổi bật**:
-  - 🔐 Xác thực & phân quyền RBAC (Role-Based Access Control) với **Spring Security & JWT**.
-  - 🎓 Hệ thống quản lý khóa học LMS: Tìm kiếm / Lọc đa tiêu chí phía máy chủ (Debounce & Criteria API), theo dõi tiến độ học tập và ghi danh.
-  - 📝 Không gian Blog kỹ thuật trình bày định dạng Markdown, highlight mã nguồn phong cách macOS, nhúng video YouTube.
-  - 🐳 Đóng gói **Docker Compose 3 tầng** (PostgreSQL, Backend Spring Boot, Frontend Nginx Reverse Proxy) khởi động chỉ với 1 click.
-
 ---
 
 ### 📊 GitHub Statistics
