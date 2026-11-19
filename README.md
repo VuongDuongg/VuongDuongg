@@ -147,7 +147,7 @@
     </tr>
     <tr>
       <td>
-        <strong><a href="https://github.com/VuongDuongg/Agent_Skill_FullStack_Java">🤖 Agent Skill FullStack Java</a></strong><br/>
+        <strong><a href="https://github.com/VuongDuongg//e-wallet-project">🤖 Agent Skill FullStack Java</a></strong><br/>
         <em>Bộ quy chuẩn & AI Agent Skills Fullstack</em>
       </td>
       <td>
